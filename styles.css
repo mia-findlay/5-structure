@@ -1,5 +1,5 @@
 html {
-    background-color: aquamarine;
+    background-color: rgb(227, 239, 235);
 }
 
 body{
@@ -10,7 +10,33 @@ h1 {
     margin: 0;
 }
 
+.branded-border{
+    border: 4px dotted rgb(242, 239, 239);
+    padding:10px;
+}
+
 .main-header{
-    background-color: beige;
+    background-color: rgb(117, 203, 243);
+    padding: 30px;
+}
+
+.viburnums-header { 
+    background-color: plum;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.nav-links{
+    color: blueviolet;
+}
+
+.viburnums-main {
+    background-color: cadetblue;
+    padding:30px;
+    margin-bottom: 10px;
+}
+
+.viburnums-footer {
+    background-color: hotpink;
     padding: 30px;
 }
