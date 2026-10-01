@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(227, 239, 235);
+}
+
+body{
+    margin: 0;
+}
+
+h1 {
+    margin:0;
+}
+
+.UWM-header {
+    background-color: rgb(136, 183, 230);
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.uwm-main {
+    background-color: cadetblue;
+    padding:30px;
+    margin-bottom: 10px;
+}
+
+.uwm-footer {
+    background-color: skyblue;
+    padding: 30px;
+}
