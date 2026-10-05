@@ -9,6 +9,24 @@ body{
 h1 {
     margin: 0;
 }
+.nav-link:visited {
+    color: rgb(0, 111, 35);
+}
+
+.nav-link {
+    color:darkcyan; }
+
+.nav-link:hover {
+    color:blue;
+}
+
+.nav-link:active {
+    font-size: 30px;
+}
+
+.nav-link:focus {
+    padding: 5px;
+}
 
 .branded-border{
     border: 4px dotted rgb(242, 239, 239);
@@ -27,7 +45,7 @@ h1 {
 }
 
 .nav-links{
-    color: blueviolet;
+    color: rgb(161, 72, 239);
 }
 
 .viburnums-main {
